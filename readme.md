@@ -1,5 +1,6 @@
-# Hello!
+# yo
 
-My name is Archer Hosford, and I'm a beginner Python programmer, trying to learn new things and try things out.
+I specialize in video game development and web development. I work with HTML, CSS, JS, Vue, and Python. I can somewhat use other languages, but I'm less capable in them.
+This profile showcases some of my experiments and code.
 
-Thanks!
+You can check out my Codepen page here: https://codepen.io/ComputerK
